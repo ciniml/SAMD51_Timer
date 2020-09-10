@@ -1,0 +1,20 @@
+{
+    "name": "SAMD51_Timer",
+    "description": "Interval timer implementation for SAMD51.",
+    "keywords": "WioTerminal, ATSAMD51",
+    "authors": {
+      "name": "Kenta IDA",
+      "url": "https://github.com/ciniml/",
+      "maintainer": true
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ciniml/SAMD51_Timer"
+    },
+    "version": "0.1.0",
+    "framework": "arduino",
+    "platforms": "atmelsam",
+    "build": {
+      "libArchive": false
+    }
+  }
